@@ -16,13 +16,13 @@
 
 本门课以数据结构和算法为主，不强调非常细节的编程实现，可以适当学习一些伪代码的技巧。本课程的**作业允许以伪代码的形式提交**。网络上对于伪代码有非常多的介绍，大多数语法并无需严格遵守，只要求尽可能简洁优美地展示出你代码的思路。
 
-除了官方网站提供的部分习题答案，此处谨附上三份较为完整的答案作为参考。个人**非常不建议在自行完成作业前查阅答案**。算法是一门需要实践的课程，请对自己负责。
+除了官方网站提供的部分习题答案，此处谨附上三份较为完整的答案作为参考。个人**非常不建议在自行完成作业前查阅答案**（何况这些答案也不是完整的）。算法是一门需要实践的课程，请对自己负责。
+
+[reneargento版](https://github.com/reneargento)
 
 [aistrate版](https://github.com/aistrate/AlgorithmsSedgewick)
 
-[jimmysuncpt版](<https://github.com/jimmysuncpt/Algorithms>)
-
-[zhangjia版](<https://github.com/jimmysuncpt/Algorithms>)
+[jimmysuncpt版](https://github.com/jimmysuncpt/Algorithms)
 
 ### 其它信息
 
