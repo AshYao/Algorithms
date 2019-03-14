@@ -18,7 +18,7 @@
 
 除了官方网站提供的部分习题答案，此处谨附上三份较为完整的答案作为参考。个人**非常不建议在自行完成作业前查阅答案**（何况这些答案也未必对）。算法是一门需要实践的课程，请对自己负责。
 
-[reneargento版](https://github.com/reneargento)
+[reneargento版](https://github.com/reneargento/algorithms-sedgewick-wayne)
 
 [aistrate版](https://github.com/aistrate/AlgorithmsSedgewick)
 
