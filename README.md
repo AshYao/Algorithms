@@ -44,7 +44,7 @@
 
 [作业提交统计](https://github.com/AshYao/Algorithms/homework/作业提交统计.xls)
 
-- 更新至第一周
+- 更新至第三周
 
 用如下符号表示提交情况
 
