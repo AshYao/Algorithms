@@ -40,11 +40,15 @@
 
 - 第一、二周作业讲解
 
+[习题课2](https://github.com/AshYao/Algorithms/slides/习题课2.pptx)
+
+- 第三、四、五周作业讲解
+
 ## 作业提交情况统计
 
 [作业提交统计](https://github.com/AshYao/Algorithms/homework/作业提交统计.xls)
 
-- 更新至第三周
+- 更新至第五周
 
 用如下符号表示提交情况
 
