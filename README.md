@@ -41,11 +41,11 @@
 
 ## 习题课Slides
 
-[习题课1](https://github.com/AshYao/Algorithms/slides/习题课1.pptx)
+[习题课1](https://github.com/AshYao/Algorithms/blob/master/slides/习题课1.pptx)
 
 - 第一、二周作业讲解
 
-[习题课2](https://github.com/AshYao/Algorithms/slides/习题课2.pptx)
+[习题课2](https://github.com/AshYao/Algorithms/blob/master/slides/习题课2.pptx)
 
 - 第三、四、五周作业讲解
 
