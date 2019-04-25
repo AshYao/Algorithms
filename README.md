@@ -49,6 +49,10 @@
 
 - 第三、四、五周作业讲解
 
+[习题课3](https://github.com/AshYao/Algorithms/blob/master/slides/习题课3.pptx)
+
+- 第六、七、八周作业讲解
+
 ## 作业提交情况统计
 
 [作业提交统计](<https://github.com/AshYao/Algorithms/blob/master/homework/作业统计情况.xls>)
