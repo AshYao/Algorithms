@@ -53,11 +53,15 @@
 
 - 第六、七、八周作业讲解
 
+[习题课4](https://github.com/AshYao/Algorithms/blob/master/slides/习题课4.pptx)
+
+- 第九、十、十一周作业讲解
+
 ## 作业提交情况统计
 
 [作业提交统计](<https://github.com/AshYao/Algorithms/blob/master/homework/作业统计情况.xls>)
 
-- 更新至第十周，密码请询问同学/助教
+- 更新至第十一周，密码请询问同学/助教
 - 请及时确认自己的作业提交情况。如有缺漏，尽快发邮件说明情况
 
 用如下符号表示提交情况
